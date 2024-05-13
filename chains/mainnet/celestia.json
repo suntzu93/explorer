@@ -1,0 +1,26 @@
+{
+  "chain_name": "celestia-mainnet",
+  "api": [
+    {
+      "address": "https://celestia-mainnet-api.suntzu.dev"
+    }
+  ],
+  "rpc": [
+    {
+      "address":"https://celestia-mainnet-rpc.suntzu.dev"
+    }
+  ],
+  "sdk_version": "0.46.0",
+  "coin_type": "118",
+  "min_tx_fee": "800",
+  "assets": [{
+    "base": "utia",
+    "symbol": "TIA",
+    "exponent": "6",
+    "coingecko_id": "celestia",
+    "logo": "https://raw.githubusercontent.com/suntzu93/logo_chains/main/celestia_logo.png"
+  }],
+  "addr_prefix": "celestia",
+  "theme_color": "#bc5be8",
+  "logo": "https://raw.githubusercontent.com/suntzu93/logo_chains/main/celestia_logo.png"
+}

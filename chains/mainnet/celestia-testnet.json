@@ -1,0 +1,19 @@
+{
+  "chain_name": "celestia-testnet",
+  "coingecko": "",
+  "api": ["https://celestia-testnet-api.suntzu.dev"],
+  "rpc": ["https://celestia-testnet-rpc.suntzu.dev"],
+  "snapshot_provider": "",
+  "sdk_version": "0.46.0",
+  "coin_type": "118",
+  "min_tx_fee": "800",
+  "addr_prefix": "celestia",
+  "logo": "https://ping.pub/logos/celestia.png",
+  "assets": [{
+    "base": "utia",
+    "symbol": "TIA",
+    "exponent": "6",
+    "coingecko_id": "celestia",
+    "logo": "https://ping.pub/logos/celestia.png"
+  }]
+}

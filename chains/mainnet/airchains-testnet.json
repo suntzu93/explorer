@@ -1,0 +1,28 @@
+{
+  "chain_name": "junction-testnet",
+  "api": [
+    {
+      "address": "https://airchains-testnet-api.suntzu.dev",
+      "provider": "Suntzu"
+    }
+  ],
+  "rpc": [
+    {
+      "address": "https://airchains-testnet-rpc.suntzu.dev",
+      "provider": "Suntzu"
+    }
+  ],
+  "sdk_version": "0.46.0",
+  "coin_type": "118",
+  "min_tx_fee": "800",
+  "assets": [{
+    "base": "amf",
+    "symbol": "AMF",
+    "exponent": "6",
+    "coingecko_id": "amf",
+    "logo": "https://raw.githubusercontent.com/suntzu93/logo_chains/main/airchain.jpg"
+  }],
+  "addr_prefix": "air",
+  "theme_color": "#4d2c9e",
+  "logo": "https://raw.githubusercontent.com/suntzu93/logo_chains/main/airchain.jpg"
+}
