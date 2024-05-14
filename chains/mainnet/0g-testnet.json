@@ -1,0 +1,25 @@
+{
+  "chain_name": "0g.ai-testnet",
+  "api": [
+    {
+      "address": "https://0g-testnet-api.suntzu.dev"
+    }
+  ],
+  "rpc": [
+    {
+      "address": "https://0g-testnet-rpc.suntzu.dev"
+    }
+  ],
+  "sdk_version": "0.46.0",
+  "coin_type": "118",
+  "min_tx_fee": "800",
+  "assets": [{
+    "base": "A0GI",
+    "symbol": "A0GI",
+    "exponent": "6",
+    "logo": "https://raw.githubusercontent.com/suntzu93/logo_chains/main/0g-logo.svg"
+  }],
+  "addr_prefix": "air",
+  "theme_color": "#4d2c9e",
+  "logo": "https://raw.githubusercontent.com/suntzu93/logo_chains/main/0g-logo.svg"
+}
