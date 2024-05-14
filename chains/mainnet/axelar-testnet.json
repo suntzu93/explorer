@@ -1,0 +1,26 @@
+{
+  "chain_name": "axelar-testnet",
+  "api": [
+    {
+      "address": "https://axelar-testnet-api.polkachu.com/"
+    }
+  ],
+  "rpc": [
+    {
+      "address": "https://axelar-testnet-rpc.polkachu.com/"
+    }
+  ],
+  "sdk_version": "0.46.0",
+  "coin_type": "118",
+  "min_tx_fee": "800",
+  "assets": [{
+    "base": "axl",
+    "symbol": "AXL",
+    "exponent": "6",
+    "coingecko_id": "axelar",
+    "logo": "https://raw.githubusercontent.com/suntzu93/logo_chains/main/axelar.jpeg"
+  }],
+  "addr_prefix": "air",
+  "theme_color": "#4d2c9e",
+  "logo": "https://raw.githubusercontent.com/suntzu93/logo_chains/main/axelar.jpeg"
+}
